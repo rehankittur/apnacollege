@@ -1,4 +1,4 @@
 # apnacollege
 Learning GIT
 
-AUthor - Rehan 
+AUthor - Rehan Kittur
